@@ -1,2 +1,2 @@
 # Hello-World
-This is first lab version for tesing the function of Github
+This is the first lab version for tesing the function of Github
